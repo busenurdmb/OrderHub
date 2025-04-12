@@ -49,6 +49,8 @@ Eğer bir adım başarısız olursa önceki adımların rollback edilmesini sağ
 ---
 ![Kibana index](https://github.com/busenurdmb/OrderHub/blob/master/images/rabbitmqexchange.png)
 ![Kibana index](https://github.com/busenurdmb/OrderHub/blob/master/images/saga.png)
+![Kibana index](https://github.com/busenurdmb/OrderHub/blob/master/images/rabbit1.png)
+![Kibana index](https://github.com/busenurdmb/OrderHub/blob/master/images/rabbit12.png)
 
 ## 🧭 Exchange ile Başlangıç – Fanout Modeli
 
